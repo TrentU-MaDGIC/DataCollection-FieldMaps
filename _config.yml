@@ -1,0 +1,16 @@
+title: "Data Collection- Field Maps"
+description: "Learn how to build a form and collect data in the field with an Android or iOS device using Esri’s Field Maps application. Data is automatically stored in your ArcGIS Online account and ready to be analyzed or visualized."
+
+# Use remote theme
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: light
+search_enabled: true
+
+# Required for remote themes
+plugins:
+  - jekyll-remote-theme
+
+# Build settings
+url: "https://TrentU-MaDGIC.github.io"
+baseurl: "/DataCollection-FieldMaps"
