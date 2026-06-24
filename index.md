@@ -19,4 +19,4 @@ By the end of this workshop, you will be taught how to:
 ## Prerequisites
 Some experience with ArcGIS Online is useful but not essential. 
 
-### This workshop was authored by Kate Hodge (GIS and Data Support Specialist).
+##### This workshop was authored by Kate Hodge (GIS and Data Support Specialist).
