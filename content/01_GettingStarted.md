@@ -10,7 +10,8 @@ permalink: /content/WorkshopContent.html
 # Download ArcGIS Field Maps
 1. Search for and download the "ArcGIS Field Maps" application on your mobile device from Google Play or the App Store.
 
-![](images/01_Download_FieldMaps.jpeg)
+![](images/01_Download_FieldMaps.jpg)
+![](images/01_Download.jpg)
 
 2.	Choose “Sign in with ArcGIS Enterprise”
 If it is your first time signing in you will need to choose “Specify a new URL” and enter “trentuniversity.maps.arcgis.com”
