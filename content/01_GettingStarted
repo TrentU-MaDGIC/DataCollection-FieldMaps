@@ -8,4 +8,14 @@ permalink: /content/WorkshopContent.html
 ---
 
 # Download ArcGIS Field Maps
-1. Search for and download the "ArcGIS Field Maps" application on your mobile device from Google Play or the App Store. 
+1. Search for and download the "ArcGIS Field Maps" application on your mobile device from Google Play or the App Store.
+
+![](images/02_NameProject.png)
+
+2.	Choose “Sign in with ArcGIS Enterprise”
+If it is your first time signing in you will need to choose “Specify a new URL” and enter “trentuniversity.maps.arcgis.com”
+If you have signed in before, the URL should show up as the first option. Choose this.
+4.	Log in using your myTrent credentials (email and password).
+5.	Now you have successfully logged into the Field Maps app!
+
+Your editable maps and maps shared with you will appear here.
