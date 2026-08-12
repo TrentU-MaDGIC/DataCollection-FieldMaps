@@ -4,7 +4,7 @@ title: Field Data Collection
 nav_order: 2
 has_children: true
 has_toc: false
-permalink: /content/AboutFieldMaps.html
+permalink: /content/FieldDataCollection.html
 ---
 
 # Field Data Collection
