@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Data Collection
+title: Field Data Collection
 nav_order: 2
 has_children: true
 has_toc: false
