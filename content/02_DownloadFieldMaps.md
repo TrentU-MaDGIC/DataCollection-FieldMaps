@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Workshop Content
+title: Download Field Maps
 nav_order: 3
 has_children: true
 has_toc: false
-permalink: /content/WorkshopContent.html
+permalink: /content/DownloadFieldMaps.html
 ---
 
 # Download ArcGIS Field Maps
