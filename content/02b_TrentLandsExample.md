@@ -18,10 +18,11 @@ Previously, much of this information was collected using different methods and s
 
 Here is an example of a map with the Ecosites digitized in the computer program "Paint". 
 
-![](images/01_Download.jpg)
 ![](images/08_L22NA_ELC.jpg)
 
 This map was brought into ArcGIS Pro, georeferenced, and re-digitized to create an Ecosites feature layer.
+
+
 
 The map was uploaded to ArcGIS Online and Field Maps Designer, where a form was configured for field data collection. 
 
