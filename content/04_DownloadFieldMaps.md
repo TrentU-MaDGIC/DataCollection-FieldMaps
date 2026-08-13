@@ -2,7 +2,7 @@
 layout: default
 title: Download & Log in to Esri Field Maps
 nav_order: 1
-parent: Data Collection Apps
+parent: Create Field Map
 has_toc: false
 permalink: /content/DownloadFieldMaps.html
 ---
