@@ -26,6 +26,8 @@ This map was brought into ArcGIS Pro, georeferenced, and re-digitized to create 
 
 The map was uploaded to ArcGIS Online and Field Maps Designer, where a form was configured for field data collection. 
 
+![](images/10_Ecosites_Form.png)
+
 Now, the Land Stewardship team can edit the map directly in the field using the Esri Field Maps application. 
 
 Field data collection helps the Land Stewardship Team:
