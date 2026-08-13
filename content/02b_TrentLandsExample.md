@@ -16,6 +16,16 @@ Previously, much of this information was collected using different methods and s
 - Shared across stewardship, research, and teaching initiatives
 - Revisited and compared over time
 
+Here is an example of a map with the Ecosites digitized in the computer program "Paint". 
+
+    ![](images/08_L22NA_ELC.jpg)
+
+This map was brought into ArcGIS Pro, georeferenced, and re-digitized to create an Ecosites feature layer.
+
+The map was uploaded to ArcGIS Online and Field Maps Designer, where a form was configured for field data collection. 
+
+Now, the Land Stewardship team can edit the map directly in the field using the Esri Field Maps application. 
+
 Field data collection helps the Land Stewardship Team:
 - Identify environmental pressures and threats
 - Monitor changes across the landscape
