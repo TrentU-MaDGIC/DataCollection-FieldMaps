@@ -30,8 +30,8 @@ The map was uploaded to ArcGIS Online and Field Maps Designer, where a form was 
 
 Now, the Land Stewardship team can edit the map directly in the field using the Esri Field Maps application. 
 
-![](images/ELC_FM1_smaller.jpg)
-![](images/12_ELC_FM2.jpg)
+![](images/ELC_FM1.jpg)
+![](images/ELC_FM2.jpg)
 
 Field data collection helps the Land Stewardship Team:
 - Identify environmental pressures and threats
