@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Download Field Maps
+title: Download & Log in to Esri Field Maps
 nav_order: 5
 parent: Data Collection Apps
 has_toc: false
