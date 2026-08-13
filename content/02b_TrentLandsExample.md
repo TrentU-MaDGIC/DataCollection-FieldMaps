@@ -26,6 +26,8 @@ This map was brought into ArcGIS Pro, georeferenced, and re-digitized to create 
 
 The map was uploaded to ArcGIS Online and Field Maps Designer, where a form was configured for field data collection. 
 
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Trent Lands - Community Types" src="https://trentu.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=5c60645b45064c4ba5dcf31a7b08211d&theme=light&scroll=false&center=-78.28990779637081,44.35577309676458&scale=36111.909643" ></iframe>
+
 ![](images/10_ELC_Form.png)
 
 Now, the Land Stewardship team can edit the map directly in the field using the Esri Field Maps application. 
