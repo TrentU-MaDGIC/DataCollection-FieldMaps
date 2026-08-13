@@ -2,7 +2,7 @@
 layout: default
 title: Download Field Maps
 nav_order: 3
-has_children: true
+parent: Data Collection Apps
 has_toc: false
 permalink: /content/DownloadFieldMaps.html
 ---
