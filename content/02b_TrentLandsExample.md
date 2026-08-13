@@ -47,3 +47,7 @@ Examples of data collected:
 - Invasive species observations
 - Species and habitat monitoring
 - Stewardship activities
+
+# Related Resources
+- Find Land Stewardship data in the [Trent Lands Database](https://geohub-trentuniversity.hub.arcgis.com/)
+- Trent Lands [Website](https://www.trentlands.ca/)
