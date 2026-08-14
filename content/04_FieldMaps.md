@@ -87,16 +87,16 @@ This exercise will show you how to:
 27. If you haven't already, [download the Field Maps application](https://trentu-madgic.github.io/FieldDataCollection/content/DownloadFieldMaps.html) to test the form.
 
 ## Test the Form & Collect Data
-28. Open the map in the Field Maps application on your phone.
+1. Open the map in the Field Maps application on your phone.
 <img alt="image" src="https://github.com/user-attachments/assets/be9208ad-7739-4a68-98d6-efa8598c4f77" />
 
-29.  Select the blue plus sign (+) to add a data point to the map. 
+2.  Select the blue plus sign (+) to add a data point to the map. 
 <img alt="image" src="https://github.com/user-attachments/assets/dc5219a0-b8f8-49e2-b063-b8a26df6fe82" />
 
-30.  By default, the location of the point is where you are located. You can move the crosshair on the map to change the location.
+3.  By default, the location of the point is where you are located. You can move the crosshair on the map to change the location.
 <img alt="image" src="https://github.com/user-attachments/assets/231c2cb8-f7bc-472d-9bd5-44aea8fa605e" />
 
-31.  Fill out the form and choose the "Submit" button to save the attributes and point to the map.
+4.  Fill out the form and choose the "Submit" button to save the attributes and point to the map.
 <img alt="image" src="https://github.com/user-attachments/assets/31efc783-fb03-4253-a521-ca275eeb7ee1" />
 
 
