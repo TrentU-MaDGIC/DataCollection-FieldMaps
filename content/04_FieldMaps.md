@@ -88,15 +88,19 @@ This exercise will show you how to:
 
 ## Test the Form & Collect Data ggggggg
 1. Open the map in the Field Maps application on your phone.
+   
 <img alt="image" src="https://github.com/user-attachments/assets/be9208ad-7739-4a68-98d6-efa8598c4f77" />
 
-2.  Select the blue plus sign (+) to add a data point to the map. 
+3.  Select the blue plus sign (+) to add a data point to the map. 
+
 <img alt="image" src="https://github.com/user-attachments/assets/dc5219a0-b8f8-49e2-b063-b8a26df6fe82" />
 
-3.  By default, the location of the point is where you are located. You can move the crosshair on the map to change the location.
+4.  By default, the location of the point is where you are located. You can move the crosshair on the map to change the location.
+
 <img alt="image" src="https://github.com/user-attachments/assets/231c2cb8-f7bc-472d-9bd5-44aea8fa605e" />
 
-4.  Fill out the form and choose the "Submit" button to save the attributes and point to the map.
+5.  Fill out the form and choose the "Submit" button to save the attributes and point to the map.
+
 <img alt="image" src="https://github.com/user-attachments/assets/31efc783-fb03-4253-a521-ca275eeb7ee1" />
 
 
