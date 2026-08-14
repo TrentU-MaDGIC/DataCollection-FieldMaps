@@ -4,17 +4,17 @@ title: Introduction
 nav_order: 1
 ---
 
-# Data Collection using ArcGIS Field Maps
-Whether you're conducting research, documenting campus assets, monitoring environmental conditions, or supporting community projects, mobile GIS tools make it easy to collect accurate, location-based information directly in the field. This workshop teaches you how to prepare a map and feature layer for data collection, configure data entry forms, and use ArcGIS Field Maps on a mobile device. Data is automatically stored in your ArcGIS Online account and ready to be analyzed or visualized. 
+# Field Data Collection 
+Discover the right tool for your data collection needs. This workshop introduces Field Maps, QuickCapture, Survey123, and QField, covering key features, common workflows, and practical applications for gathering and managing field data efficiently.
 
-By the end of this workshop, you will be taught how to: 
-- Create a feature layer and map for field data collection
-- Configure forms to support consistent and accurate data entry
-- Collect georeferenced observations using ArcGIS Field Maps
-- Capture GPS locations, photos, and attributes in the field
-- Apply best practices for mobile data collection workflows
-- Visualize and manage collected data in ArcGIS Online
-- Understand how field-collected data can support research, operations, and decision-making
+By the end of this workshop, you will be taught how to:
+
+Identify the strengths and ideal use cases of Field Maps, QuickCapture, Survey123, and QField.
+Select the most appropriate application based on specific field data collection requirements.
+Configure and use each application to collect spatial and attribute data.
+Understand the differences between map-based, form-based, and rapid-capture data collection workflows.
+Collect, edit, and synchronize field data using mobile devices.
+Apply best practices for efficient, accurate, and consistent field data collection.
 
 
 ## Prerequisites
