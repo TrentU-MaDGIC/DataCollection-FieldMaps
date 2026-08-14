@@ -64,7 +64,7 @@ This exercise will show you how to:
 19. Select the “Add values” button.
 <img alt="image" src="https://github.com/user-attachments/assets/eb03e5ad-a4b0-4a69-af26-e87b5c06d417" />
 
-20. Add the following “Label (displayed value)” which will automatically populate the “Code (stored value)”.
+20. Add the list of values from the image below.
 <img alt="image" src="https://github.com/user-attachments/assets/b7eaef40-29be-401d-910c-ac84ace2fea8" />
 
 21. Under the form “Properties”, check off “Required”
