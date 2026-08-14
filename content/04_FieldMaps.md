@@ -39,7 +39,7 @@ This exercise will show you how to:
 
 9. If you want a point layer, accept the default. Otherwise, change the layer type.
 10. In this example, we will name the point layer “Campus Assets” (you may need to add your initials to the end so there aren't multiple feature layers with the same name in an Organization).
-<img width="1550" alt="image" src="https://github.com/user-attachments/assets/9fa5237a-2cc4-4ea6-a3e8-4cbf8fb3da69" />
+<img alt="image" src="https://github.com/user-attachments/assets/9fa5237a-2cc4-4ea6-a3e8-4cbf8fb3da69" />
 
 
 11. In this example, we will accept the defaults for 'Layer Settings".
