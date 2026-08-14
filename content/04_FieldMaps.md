@@ -83,7 +83,7 @@ This exercise will show you how to:
 26. Save the form.
 <img width="1021" height="510" alt="image" src="https://github.com/user-attachments/assets/3200814e-3550-4c73-b542-7a99edc41273" />
 
-27. If you haven't already, download the Field Maps application to test the form. 
+27. If you haven't already, [download the Field Maps application](https://trentu-madgic.github.io/FieldDataCollection/content/DownloadFieldMaps.html) to test the form. 
 
 
 
