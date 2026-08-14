@@ -17,7 +17,7 @@ This exercise will show you how to:
 
 ## Log in to ArcGIS Online
 1. Navigate to Trent University's ArcGIS Online Portal [https://trentuniversity.maps.arcgis.com](https://trentuniversity.maps.arcgis.com).
-2. Select "Students, Staff and Faculty"
+2. Select "Students, Staff and Faculty".
 <img alt="image" src="https://github.com/user-attachments/assets/821c2cfc-9c6e-4fd5-8bd2-72e19b8b3103" />
 
 3. You will be redirected to the myTrent login screen.
@@ -25,8 +25,8 @@ This exercise will show you how to:
 <img alt="image" src="https://github.com/user-attachments/assets/50ba3cfc-f13b-4a40-8589-5d02e2613f24" />
 
 ## Launch Field Maps Designer
-5. Select the 9 dots from the top toolbar
-6. Choose the “Field Maps Designer” application
+5. Select the 9 dots from the top toolbar.
+6. Choose the “Field Maps Designer” application.
 <img alt="image" src="https://github.com/user-attachments/assets/3b55c7c4-6bfc-4fb8-ad20-f4a280b4ab9a" />
 
 ## Create a New Map
@@ -74,10 +74,10 @@ This exercise will show you how to:
 <img alt="image" src="https://github.com/user-attachments/assets/2c436335-03ea-4185-9582-699e1ffaa04d" />
 
 23. Select “Text- Single line” from the form to set the properties.
-24. Change the “Display name” to “Notes”
+24. Change the “Display name” to “Notes”.
 <img width="1014" height="444" alt="image" src="https://github.com/user-attachments/assets/63c1ba9f-9396-4f6e-ba16-ed59137d6b55" />
 
-25. Drag and drop “Media” to the form (media are used for photo attachments)
+25. Drag and drop “Media” to the form (media are used for photo attachments).
 <img width="1003" height="510" alt="image" src="https://github.com/user-attachments/assets/4242a5fc-91e0-42db-b070-550ba88fa4f5" />
 
 26. Save the form.
