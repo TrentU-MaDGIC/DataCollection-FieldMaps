@@ -1,5 +1,5 @@
-title: "Data Collection- Field Maps"
-description: "Learn how to build a form and collect data in the field with an Android or iOS device using Esri’s Field Maps application. Data is automatically stored in your ArcGIS Online account and ready to be analyzed or visualized."
+title: "Field Data Collection"
+description: "Discover the right tool for your data collection needs. This workshop introduces Field Maps, QuickCapture, Survey123, and QField, covering key features, common workflows, and practical applications for gathering and managing field data efficiently."
 
 # Use remote theme
 remote_theme: just-the-docs/just-the-docs
@@ -13,4 +13,4 @@ plugins:
 
 # Build settings
 url: "https://TrentU-MaDGIC.github.io"
-baseurl: "/DataCollection-FieldMaps"
+baseurl: "/FieldDataCollection"
