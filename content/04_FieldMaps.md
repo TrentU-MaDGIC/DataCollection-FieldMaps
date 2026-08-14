@@ -86,7 +86,7 @@ This exercise will show you how to:
 ## Download the ArcGIS Field Maps Application
 27. If you haven't already, [download the Field Maps application](https://trentu-madgic.github.io/FieldDataCollection/content/DownloadFieldMaps.html) to test the form.
 
-## Test the Form & Collect Data ggggggg
+## Test the Form & Collect Data
 1. Open the map in the Field Maps application on your phone.
    
 <img alt="image" src="https://github.com/user-attachments/assets/be9208ad-7739-4a68-98d6-efa8598c4f77" />
