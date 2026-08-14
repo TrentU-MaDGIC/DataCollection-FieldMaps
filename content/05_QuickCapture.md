@@ -20,6 +20,8 @@ This exercise will show you how to:
 
 ## Launch QuickCapture App
 5. Select the 9 dots from the top toolbar.
+<img width="1337" height="118" alt="image" src="https://github.com/user-attachments/assets/66fcf7d6-6260-4c7e-835c-f2bcbab908ca" />
+
 6. Choose the “QuickCapture” application.
 <img alt="image" src="https://github.com/user-attachments/assets/c53cf4ca-70f8-4ec4-a968-9ce372017f3d" />
 
