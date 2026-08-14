@@ -5,8 +5,8 @@ nav_order: 6
 has_toc: false
 permalink: /content/Survey123.html
 ---
-## Create a Survey123
-# Log in to ArcGIS Online
+# Create a Survey123
+## Log in to ArcGIS Online
 1. Navigate to Trent University's ArcGIS Online Portal [https://trentuniversity.maps.arcgis.com](https://trentuniversity.maps.arcgis.com).
 2. Select "Students, Staff and Faculty"
 
