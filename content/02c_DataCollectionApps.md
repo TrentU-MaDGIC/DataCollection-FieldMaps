@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Data Collection Apps
-nav_order: 3
+nav_order: 2
+has_parent: Field Data Collection
 has_toc: false
 permalink: /content/DataCollectionApps.html
 ---
