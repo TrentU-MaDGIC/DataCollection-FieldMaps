@@ -88,6 +88,7 @@ This exercise will show you how to:
 
 ## Test the Form & Collect Data
 1. Open the map in the Field Maps application on your phone.
+<img width="209" height="445" alt="image" src="https://github.com/user-attachments/assets/f80e6cf7-be9b-488a-b7c9-707b5a2e4b1e" />
 
 2. Select the blue plus sign (+) to add a data point to the map.
 
