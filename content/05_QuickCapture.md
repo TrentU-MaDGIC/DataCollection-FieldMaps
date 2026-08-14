@@ -15,8 +15,7 @@ This exercise will show you how to:
 2. Select "Students, Staff and Faculty".
 <img alt="image" src="https://github.com/user-attachments/assets/821c2cfc-9c6e-4fd5-8bd2-72e19b8b3103" />
 
-3. You will be redirected to the myTrent login screen.
-4. Enter your myTrent username and password.
+3. You will be redirected to the myTrent login screen. Enter your myTrent username and password.
 <img alt="image" src="https://github.com/user-attachments/assets/50ba3cfc-f13b-4a40-8589-5d02e2613f24" />
 
 ## Launch QuickCapture App
