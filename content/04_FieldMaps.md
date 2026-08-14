@@ -75,15 +75,32 @@ This exercise will show you how to:
 
 23. Select “Text- Single line” from the form to set the properties.
 24. Change the “Display name” to “Notes”.
-<img width="1014" height="444" alt="image" src="https://github.com/user-attachments/assets/63c1ba9f-9396-4f6e-ba16-ed59137d6b55" />
+<img alt="image" src="https://github.com/user-attachments/assets/63c1ba9f-9396-4f6e-ba16-ed59137d6b55" />
 
 25. Drag and drop “Media” to the form (media are used for photo attachments).
-<img width="1003" height="510" alt="image" src="https://github.com/user-attachments/assets/4242a5fc-91e0-42db-b070-550ba88fa4f5" />
+<img alt="image" src="https://github.com/user-attachments/assets/4242a5fc-91e0-42db-b070-550ba88fa4f5" />
 
 26. Save the form.
-<img width="1021" height="510" alt="image" src="https://github.com/user-attachments/assets/3200814e-3550-4c73-b542-7a99edc41273" />
+<img alt="image" src="https://github.com/user-attachments/assets/3200814e-3550-4c73-b542-7a99edc41273" />
 
-27. If you haven't already, [download the Field Maps application](https://trentu-madgic.github.io/FieldDataCollection/content/DownloadFieldMaps.html) to test the form. 
+## Download the ArcGIS Field Maps Application
+27. If you haven't already, [download the Field Maps application](https://trentu-madgic.github.io/FieldDataCollection/content/DownloadFieldMaps.html) to test the form.
+
+## Test the Form & Collect Data
+28. Open the map in the Field Maps application on your phone.
+<img alt="image" src="https://github.com/user-attachments/assets/be9208ad-7739-4a68-98d6-efa8598c4f77" />
+
+29.  Select the blue plus sign (+) to add a data point to the map. 
+<img width="244" height="525" alt="image" src="https://github.com/user-attachments/assets/dc5219a0-b8f8-49e2-b063-b8a26df6fe82" />
+
+30.  By default, the location of the point is where you are located. You can move the crosshair on the map to change the location.
+<img width="246" height="527" alt="image" src="https://github.com/user-attachments/assets/231c2cb8-f7bc-472d-9bd5-44aea8fa605e" />
+
+31.  Fill out the form and choose the "Submit" button to save the attributes and point to the map.
+<img width="242" height="522" alt="image" src="https://github.com/user-attachments/assets/31efc783-fb03-4253-a521-ca275eeb7ee1" />
+
+
+
 
 
 
