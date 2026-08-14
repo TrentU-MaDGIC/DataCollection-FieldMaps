@@ -27,16 +27,20 @@ This exercise will show you how to:
 ## Launch Field Maps Designer
 5. Select the 9 dots from the top toolbar
 6. Choose the “Field Maps Designer” application
-<img width="850" height="638" alt="image" src="https://github.com/user-attachments/assets/2b5a5b96-a534-4aab-93b1-7fd3da10118c" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/3b55c7c4-6bfc-4fb8-ad20-f4a280b4ab9a" />
 
 ## Create a New Map
 7. Select the "New map" button to create a new feature layer and map.
-<img width="862" height="388" alt="image" src="https://github.com/user-attachments/assets/49a7fbe4-8672-4034-9271-78fcba9ac9a2" />
+<img width="1550" alt="image" src="https://github.com/user-attachments/assets/261f1ce1-d8cb-4816-8bf6-282b1f420971" />
 
 ## Create a New Layer
-8. If you want a point layer, accept the default. Otherwise, change the layer type.
-9. In this example, we will name the point layer “Campus Assets” (you may need to add your initials to the end so there aren't multiple feature layers with the same name in an Organization).
-<img width="1725" height="295" alt="image" src="https://github.com/user-attachments/assets/45c3ebe8-cf89-4581-aa86-2db3d6035937" />
+8. Choose the "Start with new layers" option and select "Next".
+<img width="850"  alt="image" src="https://github.com/user-attachments/assets/1a6eccf0-696e-4dc2-ad69-be36131187e5" />
+
+9. If you want a point layer, accept the default. Otherwise, change the layer type.
+10. In this example, we will name the point layer “Campus Assets” (you may need to add your initials to the end so there aren't multiple feature layers with the same name in an Organization).
+<img width="1550" alt="image" src="https://github.com/user-attachments/assets/9fa5237a-2cc4-4ea6-a3e8-4cbf8fb3da69" />
+
 
 11. In this example, we will accept the defaults for 'Layer Settings".
 <img width="1726" height="602" alt="image" src="https://github.com/user-attachments/assets/0c00ff45-fa81-442c-ac6f-435f4bc38bbe" />
@@ -63,7 +67,15 @@ This exercise will show you how to:
 19. Select the “Add values” button.
 <img width="771" height="397" alt="image" src="https://github.com/user-attachments/assets/38128dba-b01b-4295-bcc6-f9bd88546df7" />
 
-20. 
+20. Add the following “Label (displayed value)” which will automatically populate the “Code (stored value)”.
+<img width="741" height="473" alt="image" src="https://github.com/user-attachments/assets/52ff5cf4-2a38-4021-9b2e-950028b01da8" />
+
+
+
+21. Under the form “Properties”, check off “Required”
+<img width="928" height="540" alt="image" src="https://github.com/user-attachments/assets/89f4383a-9c3d-4ab9-9c7f-591cab9fbc7d" />
+
+
 
 
 
