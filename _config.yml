@@ -11,6 +11,8 @@ search_enabled: true
 # Required for remote themes
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache 
 
 # Build settings
 url: "https://TrentU-MaDGIC.github.io"
