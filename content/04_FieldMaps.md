@@ -91,13 +91,13 @@ This exercise will show you how to:
 <img alt="image" src="https://github.com/user-attachments/assets/be9208ad-7739-4a68-98d6-efa8598c4f77" />
 
 29.  Select the blue plus sign (+) to add a data point to the map. 
-<img width="244" height="525" alt="image" src="https://github.com/user-attachments/assets/dc5219a0-b8f8-49e2-b063-b8a26df6fe82" />
+<img alt="image" src="https://github.com/user-attachments/assets/dc5219a0-b8f8-49e2-b063-b8a26df6fe82" />
 
 30.  By default, the location of the point is where you are located. You can move the crosshair on the map to change the location.
-<img width="246" height="527" alt="image" src="https://github.com/user-attachments/assets/231c2cb8-f7bc-472d-9bd5-44aea8fa605e" />
+<img alt="image" src="https://github.com/user-attachments/assets/231c2cb8-f7bc-472d-9bd5-44aea8fa605e" />
 
 31.  Fill out the form and choose the "Submit" button to save the attributes and point to the map.
-<img width="242" height="522" alt="image" src="https://github.com/user-attachments/assets/31efc783-fb03-4253-a521-ca275eeb7ee1" />
+<img alt="image" src="https://github.com/user-attachments/assets/31efc783-fb03-4253-a521-ca275eeb7ee1" />
 
 
 
