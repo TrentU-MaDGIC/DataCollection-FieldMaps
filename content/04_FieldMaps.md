@@ -37,24 +37,32 @@ This exercise will show you how to:
 8. If you want a point layer, accept the default. Otherwise, change the layer type.
 9. In this example, we will name the point layer “Campus Assets” (you may need to add your initials to the end so there aren't multiple feature layers with the same name in an Organization).
 <img width="1725" height="295" alt="image" src="https://github.com/user-attachments/assets/45c3ebe8-cf89-4581-aa86-2db3d6035937" />
+
 11. In this example, we will accept the defaults for 'Layer Settings".
 <img width="1726" height="602" alt="image" src="https://github.com/user-attachments/assets/0c00ff45-fa81-442c-ac6f-435f4bc38bbe" />
+
 12. Give the map a title (You may need to add your initials to the end so there aren't multiple maps with the same name in an Organization).
 <img width="1725" height="365" alt="image" src="https://github.com/user-attachments/assets/0956a571-4bf0-4a72-b71f-8e7289cda9e7" />
+
 13. Create the map
 
 ## Configure a Form for the Layer
 14. Under “Form elements”, drag and drop “Date” to the form.
 <img width="1707" height="641" alt="image" src="https://github.com/user-attachments/assets/9305b44c-12a4-484d-8ddb-5fbb730c410a" />
+
 15. Under “Form elements”, drag and drop “Radio buttons” onto the form.
 <img width="1725" height="544" alt="image" src="https://github.com/user-attachments/assets/9e1d581b-06f0-41dd-aea1-3306ee899b11" />
+
 16. Select “Radio buttons” from the form to set the properties.
 <img width="1725" height="544" alt="image" src="https://github.com/user-attachments/assets/3c4a2f37-c599-46cf-b17d-0a9ad8205a73" />
+
 17. Change the “Display name” to ‘Asset type'.
 18. Select the “Create list” button.
 <img width="409" height="739" alt="image" src="https://github.com/user-attachments/assets/d56b6e83-2248-49f2-81b0-591dc82d1af7" />
+
 19. Select the “Add values” button.
 <img width="771" height="397" alt="image" src="https://github.com/user-attachments/assets/38128dba-b01b-4295-bcc6-f9bd88546df7" />
+
 20. 
 
 
