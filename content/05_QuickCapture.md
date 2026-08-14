@@ -27,7 +27,10 @@ This exercise will show you how to:
 7. Select the "+ New Project" button.
 <img alt="image" src="https://github.com/user-attachments/assets/2d904b2d-8a8d-4b09-85b2-d47867460cb4" />
 
-8. 
+8. Choose the "Start from existing layers" option.
+<img alt="image" src="https://github.com/user-attachments/assets/a9e8b12d-080c-4c64-a744-feb2804dedf0" />
+
+9. 
 
 
 
