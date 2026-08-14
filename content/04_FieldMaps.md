@@ -31,7 +31,7 @@ This exercise will show you how to:
 
 ## Create a New Map
 7. Select the "New map" button to create a new feature layer and map.
-<img width="1550" alt="image" src="https://github.com/user-attachments/assets/261f1ce1-d8cb-4816-8bf6-282b1f420971" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/9f45c3d5-9f9a-43d3-9793-d9fea7cf0c68" />
 
 ## Create a New Layer
 8. Choose the "Start with new layers" option and select "Next".
@@ -39,38 +39,33 @@ This exercise will show you how to:
 
 9. If you want a point layer, accept the default. Otherwise, change the layer type.
 10. In this example, we will name the point layer “Campus Assets” (you may need to add your initials to the end so there aren't multiple feature layers with the same name in an Organization).
-<img alt="image" src="https://github.com/user-attachments/assets/9fa5237a-2cc4-4ea6-a3e8-4cbf8fb3da69" />
-
+<img width="929" height="214" alt="image" src="https://github.com/user-attachments/assets/caf43623-45da-4ae3-9c0f-112371a4831a" />
 
 11. In this example, we will accept the defaults for 'Layer Settings".
-<img width="1726" height="602" alt="image" src="https://github.com/user-attachments/assets/0c00ff45-fa81-442c-ac6f-435f4bc38bbe" />
+<img width="811" height="421" alt="image" src="https://github.com/user-attachments/assets/15616d11-b620-4a6a-8664-4db611ccc1a1" />
 
 12. Give the map a title (You may need to add your initials to the end so there aren't multiple maps with the same name in an Organization).
-<img width="1725" height="365" alt="image" src="https://github.com/user-attachments/assets/0956a571-4bf0-4a72-b71f-8e7289cda9e7" />
+<img width="802" height="237" alt="image" src="https://github.com/user-attachments/assets/3fe1f5af-0367-4a25-9a28-85a5f36241c0" />
 
 13. Create the map
 
 ## Configure a Form for the Layer
 14. Under “Form elements”, drag and drop “Date” to the form.
-<img width="1707" height="641" alt="image" src="https://github.com/user-attachments/assets/9305b44c-12a4-484d-8ddb-5fbb730c410a" />
+<img width="998" height="452" alt="image" src="https://github.com/user-attachments/assets/cd496151-5e35-46e8-a61a-e54ea3c5f460" />
 
 15. Under “Form elements”, drag and drop “Radio buttons” onto the form.
-<img width="1725" height="544" alt="image" src="https://github.com/user-attachments/assets/9e1d581b-06f0-41dd-aea1-3306ee899b11" />
+<img width="1013" height="379" alt="image" src="https://github.com/user-attachments/assets/a3eea686-03cd-445c-b72c-f44143fb39c1" />
 
 16. Select “Radio buttons” from the form to set the properties.
-<img width="1725" height="544" alt="image" src="https://github.com/user-attachments/assets/3c4a2f37-c599-46cf-b17d-0a9ad8205a73" />
+<img width="1014" height="384" alt="image" src="https://github.com/user-attachments/assets/f167d5ab-16d7-4b07-b8da-f47d51303058" />
 
 17. Change the “Display name” to ‘Asset type'.
 18. Select the “Create list” button.
-<img width="409" height="739" alt="image" src="https://github.com/user-attachments/assets/d56b6e83-2248-49f2-81b0-591dc82d1af7" />
-
 19. Select the “Add values” button.
-<img width="771" height="397" alt="image" src="https://github.com/user-attachments/assets/38128dba-b01b-4295-bcc6-f9bd88546df7" />
+<img width="954" height="576" alt="image" src="https://github.com/user-attachments/assets/eb03e5ad-a4b0-4a69-af26-e87b5c06d417" />
 
 20. Add the following “Label (displayed value)” which will automatically populate the “Code (stored value)”.
-<img width="741" height="473" alt="image" src="https://github.com/user-attachments/assets/52ff5cf4-2a38-4021-9b2e-950028b01da8" />
-
-
+<img width="566" height="360" alt="image" src="https://github.com/user-attachments/assets/b7eaef40-29be-401d-910c-ac84ace2fea8" />
 
 21. Under the form “Properties”, check off “Required”
 <img width="928" height="540" alt="image" src="https://github.com/user-attachments/assets/89f4383a-9c3d-4ab9-9c7f-591cab9fbc7d" />
